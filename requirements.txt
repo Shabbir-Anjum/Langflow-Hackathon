@@ -1,0 +1,4 @@
+requests
+diffusers 
+torch 
+streamlit
